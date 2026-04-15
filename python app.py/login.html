@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ language or 'en' }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#1dd1b3">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Vitscan AI">
+    <link rel="manifest" href="{{ url_for('static', filename='manifest.json') }}">
+    <title>Vitscan AI | {{ ui.login }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <main class="shell">
+        <nav class="topnav">
+            <a class="brand" href="/">
+                <span class="logo-mark" aria-hidden="true">V</span>
+                <span class="brand-text">Vitscan AI</span>
+            </a>
+            <div class="nav-links">
+                <a href="/">{{ ui.home }}</a>
+                <a href="/reports?language={{ language }}">{{ ui.view_reports }}</a>
+                <a href="/uploaded-images?language={{ language }}">{{ ui.view_uploads }}</a>
+            </div>
+        </nav>
+
+        <section class="hero">
+            <p class="eyebrow">{{ ui.admin_portal }}</p>
+            <h1>{{ ui.login }}</h1>
+            <p class="lead">{{ ui.sign_in }} to access the admin dashboard and report management pages.</p>
+        </section>
+
+        <section class="panel">
+            <form method="post" class="upload-form login-form">
+                <div class="field-group">
+                    <label for="username">{{ ui.username }}</label>
+                    <input id="username" name="username" type="text" required>
+                </div>
+                <div class="field-group">
+                    <label for="password">{{ ui.password }}</label>
+                    <input id="password" name="password" type="password" required>
+                </div>
+                <button type="submit">{{ ui.sign_in }}</button>
+            </form>
+
+            {% if error %}
+                <p class="error">{{ error }}</p>
+            {% endif %}
+        </section>
+    </main>
+</body>
+</html>

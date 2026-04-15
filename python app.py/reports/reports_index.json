@@ -1,0 +1,310 @@
+[
+  {
+    "id": "report-8830b474667d493fb76a92eb6d548905.txt",
+    "timestamp": "2026-04-15T11:54:59.284120",
+    "language": "ta",
+    "label": "Vitamin A deficiency",
+    "confidence": 61,
+    "summary": "The image looks lower in contrast and saturation, which can match dry or dull visual symptoms.",
+    "root_cause": "Possible insufficient vitamin A from diet or poor nutrition.",
+    "solutions": [
+      "Add carrots, sweet potatoes, leafy greens, and eggs to meals.",
+      "If dry skin or vision changes persist, seek medical advice.",
+      "Maintain a balanced diet with colorful vegetables."
+    ],
+    "patient_info": {
+      "patient_name": "sanjay",
+      "patient_age": "18",
+      "patient_gender": "Male",
+      "patient_notes": ""
+    },
+    "image_name": "8a601931a87c4e1b80807b77c8371200.jpeg",
+    "report_name": "report-8830b474667d493fb76a92eb6d548905.txt"
+  },
+  {
+    "id": "report-5e82a1cd604e45d385cc936cfcca49b0.txt",
+    "timestamp": "2026-04-15T11:59:03.704643",
+    "language": "kn",
+    "label": "Vitamin B12 deficiency",
+    "confidence": 65,
+    "summary": "The image shows red and inflamed color patterns that may align with Vitamin B12-related signs.",
+    "root_cause": "Possible inadequate vitamin B12 intake or absorption.",
+    "solutions": [
+      "Include eggs, dairy, fish, and fortified cereals in the diet.",
+      "Monitor neurological symptoms such as tingling or fatigue.",
+      "Avoid self-diagnosis from an image alone."
+    ],
+    "patient_info": {
+      "patient_name": "sanjay",
+      "patient_age": "18",
+      "patient_gender": "Male",
+      "patient_notes": ""
+    },
+    "image_name": "aeda710eeaf048f19d2d51faacc06326.jpg",
+    "report_name": "report-5e82a1cd604e45d385cc936cfcca49b0.txt"
+  },
+  {
+    "id": "report-0cbaefdb12dd4b9892af8f41724e3a2c.txt",
+    "timestamp": "2026-04-15T12:02:30.000155",
+    "language": "en",
+    "label": "Vitamin B12 deficiency",
+    "confidence": 65,
+    "summary": "The image shows red and inflamed color patterns that may align with Vitamin B12-related signs.",
+    "root_cause": "Possible inadequate vitamin B12 intake or absorption.",
+    "solutions": [
+      "Include eggs, dairy, fish, and fortified cereals in the diet.",
+      "Monitor neurological symptoms such as tingling or fatigue.",
+      "Avoid self-diagnosis from an image alone."
+    ],
+    "patient_info": {
+      "patient_name": "",
+      "patient_age": "",
+      "patient_gender": "",
+      "patient_notes": ""
+    },
+    "image_name": "5e841afa394e41b387466c4249fa9fb4.jpg",
+    "report_name": "report-0cbaefdb12dd4b9892af8f41724e3a2c.txt"
+  },
+  {
+    "id": "report-8a96ae4b68904823b9f7466a1a540577.txt",
+    "timestamp": "2026-04-15T12:04:07.431653",
+    "language": "ta",
+    "label": "Vitamin B12 deficiency",
+    "confidence": 65,
+    "summary": "The image shows red and inflamed color patterns that may align with Vitamin B12-related signs.",
+    "root_cause": "Possible inadequate vitamin B12 intake or absorption.",
+    "solutions": [
+      "Include eggs, dairy, fish, and fortified cereals in the diet.",
+      "Monitor neurological symptoms such as tingling or fatigue.",
+      "Avoid self-diagnosis from an image alone."
+    ],
+    "patient_info": {
+      "patient_name": "",
+      "patient_age": "",
+      "patient_gender": "",
+      "patient_notes": ""
+    },
+    "image_name": "9f761843387547d5a0fdfcf58728fe7d.webp",
+    "report_name": "report-8a96ae4b68904823b9f7466a1a540577.txt"
+  },
+  {
+    "id": "report-5c154de47f724c548e92b80e4de5f002.txt",
+    "timestamp": "2026-04-15T12:05:39.863179",
+    "language": "es",
+    "label": "Deficiencia de vitamina B12",
+    "confidence": 65,
+    "summary": "La imagen muestra patrones rojos e inflamados que pueden coincidir con signos relacionados con la vitamina B12.",
+    "root_cause": "Possible inadequate vitamin B12 intake or absorption.",
+    "solutions": [
+      "Include eggs, dairy, fish, and fortified cereals in the diet.",
+      "Monitor neurological symptoms such as tingling or fatigue.",
+      "Avoid self-diagnosis from an image alone."
+    ],
+    "patient_info": {
+      "patient_name": "",
+      "patient_age": "",
+      "patient_gender": "",
+      "patient_notes": ""
+    },
+    "image_name": "7314b0d14665436f99ab2614c17986d2.jpg",
+    "report_name": "report-5c154de47f724c548e92b80e4de5f002.txt"
+  },
+  {
+    "id": "report-b756f7dc747c4042a084fa13a7d771c9.txt",
+    "timestamp": "2026-04-15T12:08:59.668092",
+    "language": "ml",
+    "label": "Vitamin B12 deficiency",
+    "confidence": 65,
+    "summary": "The image shows red and inflamed color patterns that may align with Vitamin B12-related signs.",
+    "root_cause": "Possible inadequate vitamin B12 intake or absorption.",
+    "solutions": [
+      "Include eggs, dairy, fish, and fortified cereals in the diet.",
+      "Monitor neurological symptoms such as tingling or fatigue.",
+      "Avoid self-diagnosis from an image alone."
+    ],
+    "patient_info": {
+      "patient_name": "sanjay",
+      "patient_age": "54",
+      "patient_gender": "Male",
+      "patient_notes": ""
+    },
+    "image_name": "05528c045f7746fc8e12f794826e71a0.jpg",
+    "report_name": "report-b756f7dc747c4042a084fa13a7d771c9.txt"
+  },
+  {
+    "id": "report-1c49a9c9e1e64dcf9801816862232c01.txt",
+    "timestamp": "2026-04-15T12:13:23.282748",
+    "language": "ta",
+    "label": "No strong visual deficiency signal",
+    "confidence": 55,
+    "summary": "The uploaded image does not show a strong match to the built-in visual deficiency heuristics.",
+    "root_cause": "No strong visual nutrition deficiency signal detected.",
+    "solutions": [
+      "Keep a balanced diet with vegetables, fruits, protein, and hydration.",
+      "Monitor symptoms and consult a clinician if concerned.",
+      "Use proper tests rather than relying on images alone."
+    ],
+    "patient_info": {
+      "patient_name": "sanjay",
+      "patient_age": "17",
+      "patient_gender": "Male",
+      "patient_notes": ""
+    },
+    "image_name": "168dd6897cb94da08cb8440987a4dd64.jpg",
+    "report_name": "report-1c49a9c9e1e64dcf9801816862232c01.txt"
+  },
+  {
+    "id": "report-4244f70bd6c448178a491476211636f4.txt",
+    "timestamp": "2026-04-15T12:21:14.126850",
+    "language": "ta",
+    "label": "Vitamin B12 deficiency",
+    "confidence": 65,
+    "summary": "The image shows red and inflamed color patterns that may align with Vitamin B12-related signs.",
+    "root_cause": "Possible inadequate vitamin B12 intake or absorption.",
+    "solutions": [
+      "Include eggs, dairy, fish, and fortified cereals in the diet.",
+      "Monitor neurological symptoms such as tingling or fatigue.",
+      "Avoid self-diagnosis from an image alone."
+    ],
+    "patient_info": {
+      "patient_name": "sanjay",
+      "patient_age": "18",
+      "patient_gender": "Male",
+      "patient_notes": ""
+    },
+    "image_name": "a4a19fd3c6b34ea8a358cbe6a12e24b2.jpg",
+    "report_name": "report-4244f70bd6c448178a491476211636f4.txt"
+  },
+  {
+    "id": "report-db0d3dc1fbc74b8590e85a92765461e1.txt",
+    "timestamp": "2026-04-15T12:24:28.143465",
+    "language": "ta",
+    "label": "Vitamin B12 deficiency",
+    "confidence": 65,
+    "summary": "The image shows red and inflamed color patterns that may align with Vitamin B12-related signs.",
+    "root_cause": "Possible inadequate vitamin B12 intake or absorption.",
+    "solutions": [
+      "Include eggs, dairy, fish, and fortified cereals in the diet.",
+      "Monitor neurological symptoms such as tingling or fatigue.",
+      "Avoid self-diagnosis from an image alone."
+    ],
+    "patient_info": {
+      "patient_name": "sanjay",
+      "patient_age": "20",
+      "patient_gender": "Male",
+      "patient_notes": ""
+    },
+    "image_name": "1b32125c3d884bd99586b32f026bf559.webp",
+    "report_name": "report-db0d3dc1fbc74b8590e85a92765461e1.txt"
+  },
+  {
+    "id": "report-35fe437c046e4f9aa7e8cfa7c3277bda.txt",
+    "timestamp": "2026-04-15T12:25:29.743297",
+    "language": "en",
+    "label": "Vitamin B12 deficiency",
+    "confidence": 65,
+    "summary": "The image shows red and inflamed color patterns that may align with Vitamin B12-related signs.",
+    "root_cause": "Possible inadequate vitamin B12 intake or absorption.",
+    "solutions": [
+      "Include eggs, dairy, fish, and fortified cereals in the diet.",
+      "Monitor neurological symptoms such as tingling or fatigue.",
+      "Avoid self-diagnosis from an image alone."
+    ],
+    "patient_info": {
+      "patient_name": "",
+      "patient_age": "",
+      "patient_gender": "",
+      "patient_notes": ""
+    },
+    "image_name": "ae2fda0413f94a918c97347052223a39.jpg",
+    "report_name": "report-35fe437c046e4f9aa7e8cfa7c3277bda.txt"
+  },
+  {
+    "id": "report-8b81d46b57d746cdbced678e1646ff37.txt",
+    "timestamp": "2026-04-15T12:28:12.508412",
+    "language": "en",
+    "label": "Vitamin B12 deficiency",
+    "confidence": 65,
+    "summary": "The image shows red and inflamed color patterns that may align with Vitamin B12-related signs.",
+    "root_cause": "Possible inadequate vitamin B12 intake or absorption.",
+    "solutions": [
+      "Include eggs, dairy, fish, and fortified cereals in the diet.",
+      "Monitor neurological symptoms such as tingling or fatigue.",
+      "Avoid self-diagnosis from an image alone."
+    ],
+    "patient_info": {
+      "patient_name": "",
+      "patient_age": "",
+      "patient_gender": "",
+      "patient_notes": ""
+    },
+    "image_name": "f9fdef22de184aef852c118acb8eb362.jpg",
+    "report_name": "report-8b81d46b57d746cdbced678e1646ff37.txt"
+  },
+  {
+    "id": "report-a99e04b7e4eb41d78e96d073f37a671a.txt",
+    "timestamp": "2026-04-15T12:28:58.163982",
+    "language": "en",
+    "label": "Vitamin B12 deficiency",
+    "confidence": 65,
+    "summary": "The image shows red and inflamed color patterns that may align with Vitamin B12-related signs.",
+    "root_cause": "Possible inadequate vitamin B12 intake or absorption.",
+    "solutions": [
+      "Include eggs, dairy, fish, and fortified cereals in the diet.",
+      "Monitor neurological symptoms such as tingling or fatigue.",
+      "Avoid self-diagnosis from an image alone."
+    ],
+    "patient_info": {
+      "patient_name": "",
+      "patient_age": "",
+      "patient_gender": "",
+      "patient_notes": ""
+    },
+    "image_name": "d6f2a7106fae49efb5e9252d3beef206.jpg",
+    "report_name": "report-a99e04b7e4eb41d78e96d073f37a671a.txt"
+  },
+  {
+    "id": "report-409204211dd443e09e39ee04e80759e3.txt",
+    "timestamp": "2026-04-15T13:43:29.235425",
+    "language": "en",
+    "label": "Vitamin A deficiency",
+    "confidence": 61,
+    "summary": "The image looks lower in contrast and saturation, which can match dry or dull visual symptoms.",
+    "root_cause": "Possible insufficient vitamin A from diet or poor nutrition.",
+    "solutions": [
+      "Add carrots, sweet potatoes, leafy greens, and eggs to meals.",
+      "If dry skin or vision changes persist, seek medical advice.",
+      "Maintain a balanced diet with colorful vegetables."
+    ],
+    "patient_info": {
+      "patient_name": "",
+      "patient_age": "",
+      "patient_gender": "",
+      "patient_notes": ""
+    },
+    "image_name": "0bfaef373f994627b6ff7fd386ff1eef.jpeg",
+    "report_name": "report-409204211dd443e09e39ee04e80759e3.txt"
+  },
+  {
+    "id": "report-24d3af92506d4979a26a44c16ec3a097.txt",
+    "timestamp": "2026-04-15T13:46:42.525716",
+    "language": "en",
+    "label": "Vitamin A deficiency",
+    "confidence": 61,
+    "summary": "The image looks lower in contrast and saturation, which can match dry or dull visual symptoms.",
+    "root_cause": "Possible insufficient vitamin A from diet or poor nutrition.",
+    "solutions": [
+      "Add carrots, sweet potatoes, leafy greens, and eggs to meals.",
+      "If dry skin or vision changes persist, seek medical advice.",
+      "Maintain a balanced diet with colorful vegetables."
+    ],
+    "patient_info": {
+      "patient_name": "karthi",
+      "patient_age": "30",
+      "patient_gender": "Male",
+      "patient_notes": ""
+    },
+    "image_name": "7c18a0a25d3540b7b6cf0bb12e61f2ec.jpeg",
+    "report_name": "report-24d3af92506d4979a26a44c16ec3a097.txt"
+  }
+]
